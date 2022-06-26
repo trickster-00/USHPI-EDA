@@ -1,13 +1,10 @@
 # Key supply-demand factors that influence US Home Prices.
 
-```
-Name : Manaal Saxena
-Company : Home.LLC
-Position Applied : Jr. Data Scientist
-```
+The major factors that could influence home prices across US and the report was asked to be presented in a MECE Framework. In order to present it I built a Hypothesis Tree that lists all that factors and reason's behind them
 
-## Problem Statement:
-### "Build a model using publicly available data for key supply-demand factors that could influence US home price. Use that to explain how these factors impacted home prices over the last ~20 years."
+<b>Here is the Tree representation of the solution for the given problem statement.</b>
+
+![](https://lucid.app/publicSegments/view/e820bad4-0aca-429b-8a57-0792cb551d0a/image.jpeg)
 
 To provide solution for this problem I divided the problem into two parts. Before doing any Analysis, a lot of data had to be gathered and converted into a single dataframe. In order to accomplish this I did [Data Gathering](https://github.com/trickster-00/US_Home_prices/blob/ddcca71699e7752eb6bf06cd580395a2bdfa243e/Data%20Gathering.ipynb) where I gathered over 10 [Datasets](https://github.com/trickster-00/US_Home_prices/tree/main/Data) 
 
